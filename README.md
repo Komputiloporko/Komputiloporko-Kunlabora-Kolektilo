@@ -1,2 +1,2 @@
 # Komputiloporko-Kunlabora-Kolektilo
-Komputiloporko Kunlabora Kolektilo servilo kaj klientoj
+Tioj estas la Komputiloporko Kunlabora Kolektilo servilo kaj klientoj
